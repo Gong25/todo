@@ -1,7 +1,7 @@
 # ToDo in Web
 JS를 활용한 웹 todo리스트
 
-## Feature
+## Features
 - 실시간 시간표시
 - Local Storage를 활용하여 사용자 정보 저장
 
